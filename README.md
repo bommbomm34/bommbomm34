@@ -3,4 +3,4 @@
 - 💻 Software & app developer with Compose Multiplatform (Kotlin)
 - 🐧 Using Debian
 
-[![bommbomm34's GitHub stats](https://github-readme-stats.vercel.app/api?username=bommbomm34)](https://github.com/anuraghazra/github-readme-stats)
+[![bommbomm34's GitHub stats](https://github-readme-stats.vercel.app/api?username=bommbomm34&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
